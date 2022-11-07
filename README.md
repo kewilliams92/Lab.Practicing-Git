@@ -1,2 +1,1 @@
-This is a repo for learning git
-here is a new message
+here is a new message, and we used nano to edit the file.
